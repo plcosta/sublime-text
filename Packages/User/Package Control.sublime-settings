@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"Emmet",
+		"HTML5",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"Sass",
+		"SideBarEnhancements"
+	]
+}
