@@ -5,14 +5,13 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Alignment",
-		"BracketHighlighter",
-		"Emmet",
-		"HTML5",
+		"Colorsublime",
 		"Material Theme",
+		"Origami",
 		"Package Control",
-		"Predawn",
-		"Sass",
-		"SideBarEnhancements"
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"SimplePHPUnit"
 	]
 }
