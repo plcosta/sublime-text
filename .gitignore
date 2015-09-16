@@ -7,6 +7,7 @@
 !/Packages/User
 /Packages/User/*
 !/Packages/User/*.sublime-settings
+!/Packages/User/*.sublime-keymap
 !/Packages/User/*.py
 !/Packages/User/Snippets
 !/Packages/User/Builders
