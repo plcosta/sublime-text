@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -6,12 +7,14 @@
 	[
 		"AdvancedNewFile",
 		"Colorsublime",
+		"Git",
 		"Material Theme",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
 		"PHP Companion",
 		"PHP Getters and Setters",
+		"SideBarEnhancements",
 		"SimplePHPUnit"
 	]
 }
